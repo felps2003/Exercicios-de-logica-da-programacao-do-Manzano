@@ -1,20 +1,20 @@
 Algoritmo "Exercicio_a"
-// Disciplina   : [Lógica de Programação com Javascript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com Javascript]
 // Professor   : Jailson 
-// Descrição   : Apresentar o quadrado dos numeros inteiros de 15 a 200
+// DescriÃ§Ã£o   : Apresentar o quadrado dos numeros inteiros de 15 a 200
 // Autor(a)    : Felype Nunes de Souza
 // Data atual  : 16/04/2022
 Var
-// Seção de Declarações das variáveis 
-contadora,numero:inteiro
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
+contadora:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 contadora<-15
 repita
-escreval(contadora,"^2 é igual a ",contadora^2)
+escreval(contadora,"^2 Ã© igual a ",contadora^2)
 contadora<-contadora+1
-ate contadora =201
+ate contadora <= 201
 
 
 Fimalgoritmo
