@@ -1,15 +1,15 @@
 Algoritmo "Exercicio_f"
-// Disciplina   : [Lógica de Programação com Javascript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com Javascript]
 // Professor   : Jailson
-// Descrição   : O algoritmo ira mostra os numero divisiveis por 4, de 1 ate 200.
+// DescriÃ§Ã£o   : O algoritmo ira mostra os numeros divisiveis por 4, de 1 ate 200.
 // Autor(a)    : Felype Nunes de Souza
 // Data atual  : 07/05/2022
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 contadora:inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    para contadora de 1 ate 200 passo 1 faca
       se contadora%4 = 0 entao
          escreva(contadora)
