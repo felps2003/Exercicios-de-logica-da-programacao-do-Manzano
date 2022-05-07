@@ -1,15 +1,15 @@
 Algoritmo "Exercicio_d"
-// Disciplina   : [Lógica de Programação com Javascript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com Javascript]
 // Professor   : Jailson 
-// Descrição   : O programa ira acomular o totoal de grãos
+// DescriÃ§Ã£o   : O programa ira acomular o total de grÃ£os
 // Autor(a)    : Felype Nunes de Souza
 // Data atual  : 18/04/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 acomuladora,contadora:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 contadora<- 1
 repita
 escreval(acomuladora)
