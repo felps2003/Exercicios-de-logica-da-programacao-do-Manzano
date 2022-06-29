@@ -12,7 +12,7 @@ alert("Este é o Algoritmo B (conversor de Fahrenheit para Celsius)")
 f2 = parseFloat(prompt("Por favor digite uma quantia de Graus Fahrenheit: "))
 c2 = (f2-32)*(5/9);
 
-alert("A conversão do valor de Fahrenheit para Celsius é: ", c2,"°C")
+alert("A conversão do valor de Fahrenheit para Celsius é: "+ c2+"°C")
 
 alert("=================================================")
 
